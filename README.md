@@ -4,7 +4,7 @@
 <a href="https://twitter.com/kris2fa" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/krisAtitus" target="_blank">
+<a href="https://github.com/amadratitus" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@groccodingschool" target="_blank">
@@ -63,11 +63,11 @@ I am the Web Lead KYUCSA(Kyambogo University Computer Science Students Associati
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krisAtitus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amadratitus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisAtitus&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadratitus&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -75,7 +75,7 @@ I am the Web Lead KYUCSA(Kyambogo University Computer Science Students Associati
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=krisAtitus&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=amadratitus&&style=flat-square)  
   
 
 <br/>  
