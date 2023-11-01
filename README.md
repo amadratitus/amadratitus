@@ -1,6 +1,6 @@
-## Hi 👋 , I'm Christopher Amadra Titus  
-  
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Christopher+Amadra+Titus)
+
 <a href="https://twitter.com/kris2fa" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
