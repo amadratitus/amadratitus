@@ -14,7 +14,7 @@
 
 
 
-### A Tip About Me!  
+### About Me!  
 I'm a Tech Enthusiast and IT Professional passionate about using technology to solve real-world problems. I recently graduated from Kyambogo University with a degree in Information Technology and Computing. Previously, I served as the Web Lead at KYUCSA, Co-Lead at Google Developer Student Clubs (GDSC), and was an active IEEE ComSoc Member.
 ReadMore from my [LinkedIn](https://www.linkedin.com/in/kris2fa/) Profile.
   
@@ -23,18 +23,13 @@ ReadMore from my [LinkedIn](https://www.linkedin.com/in/kris2fa/) Profile.
 
 
 ## Current  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
-- 🔭 I'm currently part timing as a web developer.  
-  
-
-- 🌱I am currently learning Artificial Intelligence, Machine Learning, Robotics and Kotlin.  
-  
-
-- ❓ Ask me about anything related to Web Development, Software Development and Computer Networking.  
-  
-
-- ⚡ Fun fact: I Love Being Challenged By Learning New Skills.🥳  
+- 💼 Working as an IT Technical Executive, providing network and system support including Sophos and WatchGuard firewall configurations.  
+- 🔐 Computer Networking & VPN Technologies
+- 🛠 Building and maintaining platforms like Eirocspay, integrating MikroTik, mobile money, and SMS systems.
+- ❓ Ask me about anything related to Web Development, Software Development and Computer Networking.
+- ⚡ Fun fact: I love being challenged and constantly push myself to learn something new every day! 🧠💡  
 
 
 </td><td valign="top" width="50%">
@@ -42,10 +37,7 @@ ReadMore from my [LinkedIn](https://www.linkedin.com/in/kris2fa/) Profile.
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-
-
 </td></tr></table>  
-
 <br/>  
 
 
@@ -56,8 +48,7 @@ ReadMore from my [LinkedIn](https://www.linkedin.com/in/kris2fa/) Profile.
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>  
-
+</div>
 <br/>  
 
 
