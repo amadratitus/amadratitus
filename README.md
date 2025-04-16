@@ -15,7 +15,8 @@
 
 
 ### A Tip About Me!  
-I am the Web Lead KYUCSA(Kyambogo University Computer Science Students Association), GDSC Co-Lead and IEEE ComSoc Member. ReadMore from my [LinkedIn](https://www.linkedin.com/in/kris2fa/) Profile.
+I'm a Tech Enthusiast and IT Professional passionate about using technology to solve real-world problems. I recently graduated from Kyambogo University with a degree in Information Technology and Computing. Previously, I served as the Web Lead at KYUCSA, Co-Lead at Google Developer Student Clubs (GDSC), and was an active IEEE ComSoc Member.
+ReadMore from my [LinkedIn](https://www.linkedin.com/in/kris2fa/) Profile.
   
 
 <br/>  
